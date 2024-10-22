@@ -1,7 +1,7 @@
 # Simple Web Task - Personal Portfolio Website
 
 ## Project Overview
-This project is a simple multi-page website built using React components, with the goal of designing and developing a personal portfolio website. The website contains three main pages: Home, About, and Contact. Both **Custom CSS** and **Tailwind CSS** have been applied to ensure responsiveness and create an attractive user interface.
+This project is a simple multi-page website built using React components, with the goal of designing and developing a personal portfolio website. The website contains three main pages: Home, About, and Contact. **Tailwind CSS** have been applied to ensure responsiveness and create an attractive user interface.
 
 ## Live Demo
 [Check out the live demo](https://riaz-hussain-saifi.github.io/Simple-Web-Task)
